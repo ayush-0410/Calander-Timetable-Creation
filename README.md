@@ -1,2 +1,26 @@
-# Calander-Timetable-Creation
-This project facilitates the creation of a structured timetable within a calendar, enabling the user to incorporate detailed attributes such as subjects, assigned teachers, duration of each period, and various other customizable features, thereby offering a comprehensive and versatile scheduling solution.
+
+# Timetable Schedular
+
+
+
+
+## To start Frontend
+
+Move to client folder and open terminal
+
+```bash
+  npm install 
+  npm run dev
+```
+
+
+## To start Backend
+
+Move to server folder and open terminal
+
+```bash
+  npm install 
+  npm i nodemon
+  nodemon index.js
+```
+    
